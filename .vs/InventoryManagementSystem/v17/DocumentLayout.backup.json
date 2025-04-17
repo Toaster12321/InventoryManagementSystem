@@ -3,52 +3,24 @@
   "WorkspaceRootPath": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,157 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "InventoryManagement.cs [Design]",
               "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\InventoryManagement.cs",
               "RelativeDocumentMoniker": "InventoryManagement.cs",
               "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\InventoryManagement.cs [Design]",
               "RelativeToolTip": "InventoryManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:39:22.566Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-04-17T01:39:20.312Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InventoryManagement.cs",
-              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\InventoryManagement.cs",
-              "RelativeDocumentMoniker": "InventoryManagement.cs",
-              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\InventoryManagement.cs",
-              "RelativeToolTip": "InventoryManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:37:33.036Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs [Design]",
-              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\User.cs",
-              "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\User.cs [Design]",
-              "RelativeToolTip": "User.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T23:10:37.412Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "User.cs",
-              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\User.cs",
-              "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\User.cs",
-              "RelativeToolTip": "User.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T23:10:43.853Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Supplier.cs [Design]",
-              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Supplier.cs",
-              "RelativeDocumentMoniker": "Supplier.cs",
-              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Supplier.cs [Design]",
-              "RelativeToolTip": "Supplier.cs [Design]",
+              "Title": "Item.cs [Design]",
+              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Item.cs [Design]",
+              "RelativeToolTip": "Item.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:26:40.061Z",
+              "WhenOpened": "2025-04-17T01:41:31.559Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Supplier.cs",
-              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Supplier.cs",
-              "RelativeDocumentMoniker": "Supplier.cs",
-              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Supplier.cs",
-              "RelativeToolTip": "Supplier.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAowKYAAABZAAAAAAAAAA==",
+              "Title": "Item.cs",
+              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwLoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T23:18:22.262Z",
+              "WhenOpened": "2025-04-17T01:41:34.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Item.cs [Design]",
-              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Item.cs",
-              "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Item.cs [Design]*",
-              "RelativeToolTip": "Item.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:41:05.787Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Item.cs",
-              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Item.cs",
-              "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Item.cs*",
-              "RelativeToolTip": "Item.cs*",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAlwNcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:48:32.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Warehouse.cs [Design]",
               "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Warehouse.cs",
               "RelativeDocumentMoniker": "Warehouse.cs",
               "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Warehouse.cs [Design]",
               "RelativeToolTip": "Warehouse.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:40:56.925Z",
+              "WhenOpened": "2025-04-17T01:41:26.687Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Warehouse.cs",
               "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Warehouse.cs",
               "RelativeDocumentMoniker": "Warehouse.cs",
               "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Warehouse.cs",
               "RelativeToolTip": "Warehouse.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAowKIAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAIAwwLgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T23:18:35.96Z",
+              "WhenOpened": "2025-04-17T01:41:29.673Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Shipment.cs [Design]",
-              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Shipment.cs",
-              "RelativeDocumentMoniker": "Shipment.cs",
-              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Shipment.cs [Design]",
-              "RelativeToolTip": "Shipment.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:40:45.993Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Order.cs [Design]",
-              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Order.cs",
-              "RelativeDocumentMoniker": "Order.cs",
-              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Order.cs [Design]",
-              "RelativeToolTip": "Order.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:40:34.237Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -1,12 +1,101 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|b:\\code projects\\c# projects\\inventorymanagementsystem\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F4B556-B6EA-4CB5-BADB-11506D2685F8}|InventoryManagementSystem.csproj|solutionrelative:inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryManagement.cs [Design]",
+              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\InventoryManagement.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.cs",
+              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\InventoryManagement.cs [Design]",
+              "RelativeToolTip": "InventoryManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:39:20.312Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warehouse.cs [Design]",
+              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Warehouse.cs",
+              "RelativeDocumentMoniker": "Warehouse.cs",
+              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Warehouse.cs [Design]",
+              "RelativeToolTip": "Warehouse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:41:26.687Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Warehouse.cs",
+              "RelativeDocumentMoniker": "Warehouse.cs",
+              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Warehouse.cs",
+              "RelativeToolTip": "Warehouse.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAIAwwLgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:41:29.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs [Design]",
+              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Order.cs [Design]",
+              "RelativeToolTip": "Order.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:39:32.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shipment.cs [Design]",
+              "DocumentMoniker": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Shipment.cs",
+              "RelativeDocumentMoniker": "Shipment.cs",
+              "ToolTip": "B:\\Code Projects\\C# Projects\\InventoryManagementSystem\\Shipment.cs [Design]",
+              "RelativeToolTip": "Shipment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T03:29:18.151Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
